@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "tree",
+      "image": "https://www.publicdomainpictures.net/pictures/50000/velka/tree-1369547920oel.jpg",
+      "price": "222",
+      "id": 8
     }
   ]
 }
